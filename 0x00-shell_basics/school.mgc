@@ -1,2 +1,4 @@
 #!/bin/bash
-file -i -m school.mgc SCHOOL*
+0 search school File containing "SCHOOL"
+
+file -i -m school.mgc *
