@@ -1,2 +1,2 @@
 #!/bin/bash
-__ls__ -> pwd
+__ls__ ->/bin/ls
