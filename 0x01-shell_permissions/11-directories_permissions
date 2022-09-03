@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -type d +x *
+sudo chmod d +x *
