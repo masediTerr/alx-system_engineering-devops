@@ -1,0 +1,2 @@
+#!/bin/bash
+export cfile = main.c;makefile cfile.o
